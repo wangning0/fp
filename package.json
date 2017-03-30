@@ -1,0 +1,22 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "learn functional programming ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangning0/fp.git"
+  },
+  "keywords": [
+    "fp"
+  ],
+  "author": "wing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangning0/fp/issues"
+  },
+  "homepage": "https://github.com/wangning0/fp#readme"
+}
